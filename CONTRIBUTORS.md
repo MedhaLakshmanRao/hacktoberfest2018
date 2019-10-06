@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name : [Medha Lakshman Rao](https://github.com/MedhaLakshmanRao)<br/>
+Place: Ernakulam, Cochin <br/>
+About: Artist <br/>
+Programming languages: python <br/>
+Email: medhalrao@gmail.com
